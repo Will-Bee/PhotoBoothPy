@@ -1,0 +1,18 @@
+{
+    "NUM_PHOTOS": 4,
+    "DISPLAY_SECONDS": 0,
+    "COUNTDOWN_SECONDS": 0,
+    "OVERLAY_IMAGE_PATH": "bottom_right_4k_overlay.png",
+    "OVERLAY_SCALE": 1.0,
+    "OVERLAY_X": 0,
+    "OVERLAY_Y": 0,
+    "AUTO_PRINT": false,
+    "PAPER_SIZE": "A4",
+    "CAMERA_INDEX": 1,
+    "CAMERA_FLASH": true,
+    "CREATE_GIF": true,
+    "GIF_SAVE_PATH": "",
+    "PLAY_SOUNDS": true,
+    "ATTRACT_MODE": true,
+    "ATTRACT_TIME_SECONDS": 60
+}
